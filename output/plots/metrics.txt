@@ -1,0 +1,22 @@
+
+Classification Report:
+              precision    recall  f1-score   support
+
+         CAR       0.99      0.99      0.99       161
+       HUMAN       0.96      0.97      0.97       106
+  MOTORBIKES       0.99      0.98      0.99       175
+
+    accuracy                           0.98       442
+   macro avg       0.98      0.98      0.98       442
+weighted avg       0.98      0.98      0.98       442
+
+Confusion Matrix:
+[[160   1   0]
+ [  1 103   2]
+ [  0   3 172]]
+Precision: 0.9816
+Recall: 0.9828
+F1 Score: 0.9822
+MSE: 0.0096
+Mean IoU: 0.6516
+Mean Average Precision (mAP): 0.1980
