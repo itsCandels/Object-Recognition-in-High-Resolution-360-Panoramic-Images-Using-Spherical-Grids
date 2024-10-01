@@ -1,5 +1,6 @@
 
 # 360° Object Detection with Custom VGG16 and YOLOv8 Models
+![Equirectangular Object Detection in High Resolution ](0_Landscape.jpg)
 
 ## Overview
 
