@@ -1,5 +1,5 @@
 
-# 360° Object Detection with Custom VGG16 and YOLOv8 Models
+# 360° Object-Recognition-in-High-Resolution-360-Panoramic-Images-Using-Spherical-Grids
 ![Equirectangular Object Detection in High Resolution ](0_Landscape.jpg)
 
 ## Overview
